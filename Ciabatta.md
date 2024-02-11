@@ -2,15 +2,15 @@
 ## Ingredients 
 ### FOR THE SPONGE: 
 
-- 50 grams (about 1/3 cup) all-purpose flour
-- 2 grams (1/2 teaspoon) instant yeast, [SAF](https://www.amazon.com/gp/product/B0001CXUHW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=alexandrask06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0001CXUHW&linkId=a56a3fecda2ab41dde8f5206bc153a57&th=1) 
-- 50 grams (about 1/4 cup) water, lukewarm or room temperature
+  - 50 grams (about 1/3 cup) all-purpose flour
+  - 2 grams (1/2 teaspoon) instant yeast, [SAF](https://www.amazon.com/gp/product/B0001CXUHW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=alexandrask06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0001CXUHW&linkId=a56a3fecda2ab41dde8f5206bc153a57&th=1) 
+  - 50 grams (about 1/4 cup) water, lukewarm or room temperature
 
 ### FOR THE CIABATTA DOUGH: 
 
-- 360 grams (about 1.5 cups) water, lukewarm or room temperature
-- 12 grams (about 2 teaspoons) salt, kosher or sea salt
-- 450 grams (about 3.5 cups) bread flour, see notes above
+  - 360 grams (about 1.5 cups) water, lukewarm or room temperature
+  - 12 grams (about 2 teaspoons) salt, kosher or sea salt
+  - 450 grams (about 3.5 cups) bread flour, see notes above
 
 ## INSTRUCTIONS
 
