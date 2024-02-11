@@ -1,2 +1,5 @@
 
-[[Ciabatta recipe]]
+# Recipes
+
+## Bread
+<a href="~/Ciabatta">Ciabatta recipe</a>
